@@ -7,6 +7,5 @@
     <node name="node4" pkg="jaduu_Bot" type="talking_nlp.py" output="screen"/>
     <node name="node5" pkg="jaduu_Bot" type="telegram_bot.py" output="screen"/>
 </launch>
-TestRUN
-multi_node_launch.launch
+roslaunch my_package my_launch_file.launch
 ```
